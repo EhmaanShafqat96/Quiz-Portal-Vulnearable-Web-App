@@ -1,6 +1,6 @@
 # ASP.NET Quiz Portal
 
-## 📌 Overview
+##  Overview
 The **Quiz Portal** is a web-based application developed using the **ASP.NET Framework**.  
 It allows administrators to create, manage, and delete quizzes while enabling teachers to create quizes and students to participate and view results.  
 
@@ -8,7 +8,7 @@ This project is intentionally designed with **known security flaws** to serve as
 
 ---
 
-## ✨ Features
+##  Features
 - **User Authentication** – Login and session handling for both administrators and students.  
 - **Quiz Management** – Create, edit, and delete quizzes with multiple questions.  
 - **Role-Based Access Control** – Separate functionalities for Admins, Teacher and Students.  
@@ -18,7 +18,7 @@ This project is intentionally designed with **known security flaws** to serve as
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠 Technology Stack
 - **Frontend:** ASP.NET Web Forms, HTML, CSS  
 - **Backend:** ASP.NET Framework with VB.NET / C#  
 - **Database:** Microsoft SQL Server  
@@ -26,7 +26,7 @@ This project is intentionally designed with **known security flaws** to serve as
 
 ---
 
-## ⚡ Known Vulnerabilities
+##  Known Vulnerabilities
 This application is **deliberately insecure** and may contain:  
 - SQL Injection  
 - Cross-Site Scripting (XSS)  
@@ -37,7 +37,7 @@ This application is **deliberately insecure** and may contain:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -63,7 +63,7 @@ git clone https://github.com/YourUsername/aspnet-quiz-portal.git
 
 ---
 
-## 📚 Learning Use-Cases
+##  Learning Use-Cases
 
 * Practice **web vulnerability scanning** with tools like **OWASP ZAP**, **Burp Suite**, or **sqlmap**.
 * Perform manual testing of SQL injection, XSS, and authentication flaws.
@@ -71,7 +71,7 @@ git clone https://github.com/YourUsername/aspnet-quiz-portal.git
 
 ---
 
-## 📄 Folder Structure
+##  Folder Structure
 
 ```
 QuizPortal/
@@ -88,7 +88,7 @@ QuizPortal/
 ---
 
 
-## 👩‍💻 Author
+##  Author
 
 Developed by **Ehmaan Shafqat**
 📧 Contact: emanshafqat9611@gmail.com
@@ -97,5 +97,3 @@ Developed by **Ehmaan Shafqat**
 
 ---
 
-Do you want me to add that?
-```
